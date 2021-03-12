@@ -1,0 +1,108 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPageaboutus.master.cs" Inherits="MasterPageaboutus" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body background="images/wp3976255.jpg">
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            HIMACHAL PRADESH CRICKET ASSOCIATION - MY CRICKET PORTAL
+            <br />
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <asp:Menu ID="Menu1" runat="server" BackColor="#FFFF99" BorderColor="Yellow" 
+        ForeColor="Black" Height="34px" Orientation="Horizontal" RenderingMode="Table" 
+        style="margin-bottom: 0px" Width="1420px">
+        <Items>
+            <asp:MenuItem Text="Home" Value="Home" NavigateUrl="~/homepage.aspx"></asp:MenuItem>
+            <asp:MenuItem Text="Gallery" Value="Gallery" NavigateUrl="~/gallery.aspx"></asp:MenuItem>
+            <asp:MenuItem Text="Records" Value="Records" NavigateUrl="~/records.aspx"></asp:MenuItem>
+            <asp:MenuItem Text="About Us" Value="About Us" NavigateUrl="~/aboutus.aspx">
+            </asp:MenuItem>
+            <asp:MenuItem Text="Contact Us" Value="Contact Us" NavigateUrl="~/contact.aspx"></asp:MenuItem>
+            <asp:MenuItem Text="Logout" Value="Logout" NavigateUrl="~/login.aspx"></asp:MenuItem>
+        </Items>
+    </asp:Menu>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <p>
+        &nbsp;</p>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        <p style="color: #FFFF00">
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            ABOUT US</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            The Himachal Pradesh Cricket Association was formed with the objective of 
+            augmentation of game of Cricket in the state of Himachal, in the year 1960. 
+            However the Association was granted affiliation by the BCCI at a meeting held on 
+            29th Sept 1984 at Taj Palace, New Delhi. Till the year 2000 the Association was 
+            considered to be minnows of Indian Cricket, it was only in July 2000 that the 
+            present set up headed by Mr. Anurag Thakur took over the reins of Himachal 
+            Pradesh Cricket Association (HPCA) and the Association caught the eye of many. 
+            The new Millennium year (2000) came with new hopes and new dreams. The dawn of 
+            year 2000 suddenly threw up a hope, a sense of renewed vitality to catch up with 
+            the best in the North zone at least, if not in the entire country. A new body 
+            under young and dynamic President was installed in the office and all of a 
+            sudden we witness a flurry of activity all around us ……. Sky can be the limit 
+            for Himachal Cricket under his stewardship”. Mr. Anurag Singh Thakur elected as 
+            the fourth President of the HPCA on 2nd July 2000. Soon after he took over the 
+            association he expressed his concerns as to what still ailed the Himachal 
+            cricket. He expressed, “Why were Himachal players even after 15 years of 
+            affiliation to the BCCI regarded as babes in the wood and were treated with 
+            scant respect in the domestic circle. He realized that problems were manifold 
+            with the chief problem being lack of exposure, facilities, grounds and 
+            infrastructure.” The foremost agenda of the newly formed HPCA was to construct 
+            its own stadium having best of facilities, it was a daunting task but the young 
+            President accepted the challenge and the results can be seen. Apart from lack of 
+            infrastructure in the state the plight of players was also pathetic as such the 
+            association needed a paradigm shift in approach. The comparative briefs 
+            enunciated in the succeeding paragraphs will clearly show you the trends and 
+            momentum with which HPCA has accelerated, particularly in the last nine and a 
+            half years.</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            Defining Moments of HPCA: 17 YEARS after Himachal Pradesh Cricket Association 
+            was granted affiliation by the BCCI and just over two and a half years of 
+            present associations tenure the Government of Himachal Pradesh allotted a tract 
+            of land measuring about 16 acres to the association on 19th of March 2002 at a 
+            glittering function attended by thousands Prof. Prem Kumar Dhumal, the then 
+            Chief Minister of Himachal Pradesh, officially handed over the lease papers to 
+            Himachal Pradesh Cricket Association. The land nestles in the laps of mighty and 
+            majestic Dhauladhar Mountain ranges at a height of about 4000 feet in 
+            Dharamshala, the abode of his holiness Dalai Lama.</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            &nbsp;</p>
+        <p>
+            <span style="color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: uppercase; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span>
+        </p>
+        <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <span style="color: rgb(0, 0, 0); font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: uppercase; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">
+            COPYRIGHT © ALL RIGHT RESERVED HIMACHAL PRADESH CRICKET ASSOCIATION<span>&nbsp;</span>2019</span></p>
+        <p>
+            &nbsp;</p>
+    </asp:ContentPlaceHolder>
+    </form>
+    </body>
+</html>

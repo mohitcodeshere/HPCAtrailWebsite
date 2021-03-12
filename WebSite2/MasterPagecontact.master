@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPageaboutus.master" AutoEventWireup="true" CodeFile="MasterPagecontact.master.cs" Inherits="MasterPage2" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <p style="font-size: xx-large; color: #FFFF00; background-image: url('/WebSite2/images/wp3976326.jpg');">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    HIMACHAL PRADESH CRICKET ASSOCIATION
+</p>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
+    <p>
+    CONTACT US:<br />
+    <br />
+    <br />
+    Social Media Handles-<br />
+    <br />
+    <br />
+    1. <a href="http://www.facebook.com/hpcacricket">www.facebook.com/hpcacricket</a><br />
+    <br />
+    2. <a href="http://www.twitter.com/mycricketportalhpca">
+    www.twitter.com/mycricketportalhpca</a><br />
+    <br />
+    Email:<br />
+    <br />
+    <a href="mailto:contact@mycricketportal.com">contact@mycricketportal.com</a><br />
+    <br />
+    <br />
+    Phone:<br />
+    <br />
+    1. 8759324996<br />
+    <br />
+    2. 8934612094<br />
+</p>
+</asp:Content>
+
